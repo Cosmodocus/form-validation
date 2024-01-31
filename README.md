@@ -1,8 +1,13 @@
-# React + Vite
+#Methods used and learnt creating this Sign Up/Login Page:
+- State Management with the useState hook
+- Conditional Rendering
+- onClick functionality
+- Deep Green Forest Colour scheme for an aesthetic and easy user experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Future Implementation I want to add:
+- local storage
+- authentication(maybe Firebase)
+- popups for validation area
+- adding a remember me checkbox
+- aria attributes
+- light/dark mode
