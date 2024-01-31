@@ -11,7 +11,7 @@ const LoginSignup = () => {
   return (
     <div className='w-[600px] bg-[#36453B] mx-auto mt-28 rounded-xl '>
         <div className='flex justify-center  flex-col items-center gap-2 mt-8'>
-            <div className='text-5xl mt-6 text-[#F5F5F5] font-bold'>{action}</div>
+            <div className='text-5xl mt-6 text-[#D3D0C9] font-bold'>{action}</div>
             <div className='w-[61px] h-[6px] bg-[#8C785D] rounded-lg mt-4'></div>
         </div>
         <div className='mt-5 flex flex-col gap-6'>
